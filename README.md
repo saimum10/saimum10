@@ -10,7 +10,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%3E+whoami+%3A+Cybersecurity+Learner;%3E+Speciality+%3A+Web+Vulnerability+Automation;%3E+Tools+%3A+SAIMUM+PRO+%7C+SAIMUM+RECON;%3E+Status+%3A+Always+Hacking...+%5BETHICAL%5D;%3E+Access%3A+Granted+%E2%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=%3E+whoami+%3A+Cybersecurity+Learner;%3E+Speciality+%3A+Web+Vulnerability+Automation;%3E+%3A+SAIMUM+%7C+SAIMUM;%3E+Status+%3A+Always+Hacking...+%5BETHICAL%5D;%3E+Access%3A+Granted+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,8 +64,8 @@
 
 | Project | Description | Version |
 |:-------:|:-----------:|:-------:|
-| 🔴 **SAIMUM PRO** | Web Vulnerability Automation Pipeline | `v4.2` |
-| 🟢 **SAIMUM RECON** | Multi-Module Recon Toolkit | `v1.0` |
+| 🔴 **SAIMUM ** | Web Vulnerability Automation Pipeline | `v4.2` |
+| 🟢 **SAIMUM ...** | Multi-Module Recon Toolkit | `v1.0` |
 
 </div>
 
