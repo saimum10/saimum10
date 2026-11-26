@@ -34,20 +34,14 @@
 ┌──(saimum㉿root)-[~]
 └─$ ./visitors.sh --count
 
-  [*] Connecting to the mainframe...
-  [+] Connection established.
   [+] You are visitor number:
 ```
 
 <div align="center">
 
-<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=booru-helltaker&padding=7&scale=1" alt="Visitor count" width="500" />
+<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=3d-num&padding=7&scale=1" alt="Visitor count" width="500" />
 
 </div>
-
-```bash
-  [✓] Access Granted. Welcome, hacker.
-```
 
 ---
 
