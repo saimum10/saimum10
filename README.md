@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=booru-ffsr&padding=7&scale=1" alt="Visitor count" width="500" />
+<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=booru-helltaker&padding=7&scale=1" alt="Visitor count" width="500" />
 
 </div>
 
