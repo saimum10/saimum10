@@ -22,13 +22,13 @@
 └─$ cat about_me.txt
 
   Name     : SAIMUM
-  Status   : Building. Breaking. Fixing. Repeat.
+  Status   : loading...
 ```
 
 ---
 
 ```bash
-┌──(saimum㉿root)-[~/projects]
+┌──(saimum㉿root)-[~]
 └─$ sudo rm -rf love
 
   rm: cannot remove 'love': Permission denied
