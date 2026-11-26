@@ -27,17 +27,6 @@
 
 ---
 
-<!-- Visitor Log (big, centered) -->
-## `> You are visitor number`
-
-<div align="center">
-
-<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=3d-num&padding=7&scale=1" alt="Visitor count" width="500" />
-
-</div>
-
----
-
 ```bash
 ┌──(saimum㉿root)-[~/projects]
 └─$ sudo rm -rf love
@@ -83,6 +72,17 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/saimum10)
+
+</div>
+
+---
+
+<!-- Visitor Log (big, centered) -->
+## `> You are visitor`
+
+<div align="center">
+
+<img src="https://count.getloli.com/@saimum10?name=saimum10&theme=3d-num&padding=7&scale=1" alt="Visitor count" width="500" />
 
 </div>
 
