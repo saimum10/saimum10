@@ -28,14 +28,7 @@
 ---
 
 <!-- Visitor Log (big, centered) -->
-## `> ./visitors.sh`
-
-```bash
-┌──(saimum㉿root)-[~]
-└─$ ./visitors.sh --count
-
-  [+] You are visitor number:
-```
+## `> You are visitor number`
 
 <div align="center">
 
